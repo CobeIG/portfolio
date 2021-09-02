@@ -184,7 +184,7 @@ const FeaturesTiles = ({
                     things i do before game
                     </h4>
                   <p className="m-0 text-sm">
-                    I listen to y playlist and enjoy the time and get hype before game.
+                    I listen to my playlist and enjoy the time and get hype before game.
                     </p>
                 </div>
               </div>

@@ -1,3 +1,17 @@
 * {
-    background-color: #2f6);
+    background-color: #222 !important;
+    color: #811 !important;
+    
+}
+
+h1, h2{
+    color: #000 !important;
+}
+
+.text-color-primary {
+    color: #811 !important;
+}
+
+span {
+    color: #f04 !important;
 }
