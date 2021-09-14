@@ -1,12 +1,12 @@
 // Typography
 
 $font--provider:    'Google Fonts';
-$font--import:      'Rampart+One:400,500,600,700,800';
+$font--import:      'Permanent+Marker:400,500,600,700,800';
 
 // The font set
 $font--family: (
 	heading: 	null,
-	base:		'"Rampart One", sans-serif',
+	base:		'"Permanent Marker", sans-serif',
 	code: 		'Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace',
 	pre: 		'"Courier 10 Pitch", Courier, monospace'
 );

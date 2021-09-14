@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "46697bdcf173c85f48c031e156d8fb82",
+    "revision": "07aab02668b02c54851bd9f8104a0e54",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "73e1915f183b5d0f96cd",
-    "url": "/portfolio/static/css/main.11ddbff9.chunk.css"
+    "revision": "24d5fd090c807f6ba1a9",
+    "url": "/portfolio/static/css/main.a41eecb6.chunk.css"
   },
   {
     "revision": "3275c2a99c5680dbdd9b",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.5a3542f6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "73e1915f183b5d0f96cd",
-    "url": "/portfolio/static/js/main.5391b653.chunk.js"
+    "revision": "24d5fd090c807f6ba1a9",
+    "url": "/portfolio/static/js/main.5a856d9b.chunk.js"
   },
   {
     "revision": "62dea3017bd2ba8df9d9",
@@ -28,12 +28,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/cta-illustration.3ce357e7.svg"
   },
   {
-    "revision": "0f9928d77bc67692e90527ec092fcbd0",
-    "url": "/portfolio/static/media/feature-tile-icon-01.0f9928d7.svg"
+    "revision": "101908ef131844c4d47a0b9d530285e6",
+    "url": "/portfolio/static/media/feature-tile-icon-01.101908ef.svg"
   },
   {
-    "revision": "bd39f30434175e7c8b1d1c74fa6569fd",
-    "url": "/portfolio/static/media/feature-tile-icon-02.bd39f304.svg"
+    "revision": "12faa4268b51edc91a5ea5784cd4f183",
+    "url": "/portfolio/static/media/feature-tile-icon-02.12faa426.svg"
   },
   {
     "revision": "66f37ba5c7e4b6648f04883fa637e634",
@@ -50,10 +50,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6a1776963deb39d710bae80bb449aebe",
     "url": "/portfolio/static/media/feature-tile-icon-06.6a177696.svg"
-  },
-  {
-    "revision": "d9cb99ceb6a66250792ed78f5765325b",
-    "url": "/portfolio/static/media/features-split-image-01.d9cb99ce.png"
   },
   {
     "revision": "3c569239f88160018f79029ba5dc227d",

@@ -51,7 +51,7 @@ const FeaturesSplit = ({
 
   const sectionHeader = {
     title: 'I play baseball at SC',
-    paragraph: 'I play Cemter field and many other positions in the outfield.'
+    paragraph: 'I play Center field and many other positions in the outfield.'
   };
 
   return (

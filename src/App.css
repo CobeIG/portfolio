@@ -1,17 +1,17 @@
 * {
-    background-color: #222 !important;
-    color: #811 !important;
+    background-color: #000 !important;
+    color: #ab3 !important;
     
 }
 
 h1, h2{
-    color: #000 !important;
+    color: #ddd !important;
 }
 
 .text-color-primary {
-    color: #811 !important;
+    color: #109 !important;
 }
 
 span {
-    color: #f04 !important;
+    color: #109 !important;
 }
