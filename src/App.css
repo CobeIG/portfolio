@@ -1,5 +1,5 @@
 * {
-    background-color: #222 !important;
+    background-color: #b21 !important;
     color: #ab3 !important;
     
 }
@@ -14,4 +14,33 @@ h1, h2{
 
 span {
     color: #109 !important;
+}
+
+.I-Play-MLB {
+    width: 80rem;
+    height: 100vh;
+
+    color: #0f0;
+    background-color: #333;
+
+    border: 100px solid #fff;
+}
+
+.inner-MLB {
+    background-color: #000  !important
+}
+
+.inner-inner-MLB{
+    background-color: #ddd !important
+}
+
+.inner-inner-Game{
+    background-color: #088 !important
+}
+
+.img-brawlhalla {
+    height: 400px;
+    width: auto;
+
+    background-image: url('/portfolio/images/brawlhalla.jpeg');
 }
