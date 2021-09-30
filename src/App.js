@@ -5,14 +5,17 @@ import ScrollReveal from './utils/ScrollReveal';
 import ReactGA from 'react-ga';
 
 import './App.css';
-import EasterEgg from './views/EasterEgg';
 // Layouts
 import LayoutDefault from './layouts/LayoutDefault';
 
 // Views 
 import Home from './views/Home';
-
-// Initialize Google Analytics
+import EasterEgg from './views/EasterEgg';
+import Support from './views/Support';
+import Contact from './views/Contact';
+import About from './views/About';
+import Faq from './views/Faq';
+// Initialize Google Analytics;
 ReactGA.initialize(process.env.REACT_APP_GA_CODE);
 
 const trackPage = page => {
@@ -40,6 +43,10 @@ const App = () => {
         <Switch>
           <AppRoute exact path="/portfolio" component={Home} layout={LayoutDefault} />
           <AppRoute exact path="/portfolio/easter-egg" component={EasterEgg}/>
+          <AppRoute exact path="/portfolio/support" component={Support}/>
+          <AppRoute exact path="/portfolio/contact" component={Contact}/>
+          <AppRoute exact path="/portfolio/about" component={About}/>
+          <AppRoute exact path="/portfolio/faq" component={Faq}/>
         </Switch>
       )} />
   );

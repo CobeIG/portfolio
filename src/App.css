@@ -9,11 +9,11 @@ h1, h2{
 }
 
 .text-color-primary {
-    color: #109 !important;
+    color: #000 !important;
 }
 
 span {
-    color: #109 !important;
+    color: #000 !important;
 }
 
 .I-Play-MLB {
@@ -43,4 +43,13 @@ span {
     width: auto;
 
     background-image: url('/portfolio/images/brawlhalla.jpeg');
+}
+
+.banner {
+    height: 33.3vh;
+    font-size: 30px;
+    color: #fff;
+    text-align: center;
+
+    background-color: #054 !important
 }
