@@ -6,7 +6,7 @@ const About = () => {
     return (
         <>
             <Banner>
-                ABOUT PAGE
+                ABOUT PAGE <br/> I am a freshamn in college <br/> I attend Southwewestern College <br/> I play baseball at Southwestern College <br/> 
             </Banner>
             <Footer/>
         </>

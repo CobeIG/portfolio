@@ -6,7 +6,7 @@ const Support = () => {
     return (
         <>
             <Banner>
-            SUPPORT PAGE
+            SUPPORT PAGE <br/> It we be wonderfull to come support our school and our baseball team this upcoming year. You can also watch out football team to they're currently 5-0.
             </Banner>
             <Footer />
         </>

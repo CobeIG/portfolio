@@ -6,7 +6,7 @@ const Contact = () => {
     return (
         <>
             <Banner>
-                Contact Information <br/> Phone Number: (985)-750-8560 <br/> Email: jacobefoster2108@yahoo.com <br/> Instagram: cobeig
+                Contact Information <br/> Phone Number: (985)-750-8560 <br/> Email: jacobefoster2108@yahoo.com <br/> Instagram: cobeig <br/> snpachat: fosteerthakidd
             </Banner>
             <Footer/>
         </>
